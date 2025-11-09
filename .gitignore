@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+.env
+.env.*
+*.log
+
+# Fabric sensitive files
+server/wallet/
+server/connection-org1.json
