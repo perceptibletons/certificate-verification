@@ -1,0 +1,7 @@
+express
+cors
+body-parser
+dotenv
+fabric-network
+fabric-ca-client
+nodemon
